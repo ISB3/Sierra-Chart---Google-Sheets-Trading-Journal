@@ -9,3 +9,9 @@ For now the Trading Journal is not fully complete since I only have 1 week of Tr
 Don't hesitate to complete it according to your needs, it is very simple.
 
 https://docs.google.com/spreadsheets/d/10Czuqbs-b6LXYbtWQtqhpefSrkU3IH-17KzePqfNk4s/edit?usp=sharing
+
+-1- From "Trade Activity Log", go to "Statistics" Tab, then "File" -> "Save Log As" into the default path or one of your choice
+-2- Run the Python Script and enter the "Statistics.txt" file location (don't forget to make a blank CSV File and change the path of the Variable "fcsv")
+-3- Copy/Paste the Values at the Row2 from the CSV File into the Sheets
+
+![brave_wC9IQd0wI5](https://user-images.githubusercontent.com/65797034/161432247-37928450-8095-4083-9265-f110b7ce9d60.png)
