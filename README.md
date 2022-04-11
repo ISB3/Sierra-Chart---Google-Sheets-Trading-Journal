@@ -14,7 +14,9 @@ https://docs.google.com/spreadsheets/d/1ieFc0CW549rquCFY3pZZ06g77fIWN4DIlUC_XiSc
 -2- Run the Python Script and enter the "Statistics.txt" file location (don't forget to make a blank CSV File and change the path of the Variable "fcsv")
 -3- Copy/Paste the Values at the Row2 from the CSV File into the Sheets
 
-![brave_wC9IQd0wI5](https://user-images.githubusercontent.com/65797034/161432247-37928450-8095-4083-9265-f110b7ce9d60.png)
+![brave_dTulD7aBrU](https://user-images.githubusercontent.com/65797034/162839620-a561e796-6593-4aad-b921-8f6755fb8afb.png)
+![brave_kMT0JHoevQ](https://user-images.githubusercontent.com/65797034/162839655-4b3feb92-7124-4d24-85ef-2552455d2997.png)
+
 
 =======================================================================================================================================================================
 
